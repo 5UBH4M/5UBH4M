@@ -155,12 +155,6 @@ A Flutter-based expense management application for tracking and managing daily e
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=5UBH4M\&theme=tokyonight\&margin-w=15)
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: **[rajpootsubham25@gmail.com](mailto:rajpootsubham25@gmail.com)**
