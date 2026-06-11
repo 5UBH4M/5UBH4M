@@ -1,19 +1,19 @@
-# Hi 👋, I'm Subham Singh
+# Hi there 👋, I'm Subham Singh
 
-### 📱 Flutter Developer | Mobile App Enthusiast | B.Tech CSE Student
+### Mobile Application Developer | Flutter Developer
 
-Passionate Flutter developer specializing in building modern, responsive, and high-performance mobile applications. I enjoy creating polished user experiences, implementing scalable architectures, and solving real-world problems through technology.
+Passionate Flutter Developer with hands-on experience building cross-platform mobile applications using Flutter and Dart. I enjoy creating clean, responsive, and user-friendly applications while focusing on performance, maintainability, and real-world problem solving.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech in Computer Science & Engineering
-* 📱 Cross-platform Mobile Application Developer
+* 🎓 B.Tech CSE Student at KIPM
+* 📱 Mobile Application Developer
 * 💙 Flutter & Dart Enthusiast
-* 🐧 Arch Linux User
-* 🔥 Interested in Mobile Architecture, UI/UX, and App Performance
-* 🌱 Currently exploring advanced Flutter architecture and backend integration
+* 🐧 Linux User (Arch Linux)
+* 🔥 Interested in Mobile App Development, UI/UX, and Open Source
+* 🌱 Continuously learning modern software development practices
 
 ---
 
@@ -21,111 +21,147 @@ Passionate Flutter developer specializing in building modern, responsive, and hi
 
 ### Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+* Flutter
+* Dart
+* Firebase
+* REST APIs
+* Material Design 3
+
+### Web Development
+
+* React
+* Node.js
+* Express.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* JavaScript
+
+### Programming Languages
+
+* Dart
+* JavaScript
+* Python
+* C
+
+### Databases & Backend Services
+
+* Firebase
+* Firebase Firestore
+* Firebase Authentication
+* Isar Database
+* SQLite
+* MongoDB
 
 ### State Management
 
-![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge)
+* Riverpod
+* Provider
 
-### Database & Backend
+### Tools & Platforms
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Isar](https://img.shields.io/badge/Isar-6A5ACD?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+* Git
+* GitHub
+* Linux (Arch Linux)
+* Android Studio
+* VS Code
+* Firebase Console
+* Postman
+* FFmpeg
 
-### Tools
+### Software Engineering
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+* Clean Architecture
+* Repository Pattern
+* SOLID Principles
+* Dependency Injection
+* Responsive UI Design
+* Offline-First Applications
 
 ---
 
-# 🔥 Featured Projects
+## 📌 Featured Projects
 
-## 🎵 EchoBeat
+### 🎵 EchoBeat
 
-A modern offline-first music player built with Flutter and Material 3.
+A modern offline-first music player built with Flutter and Material 3, designed to provide a complete local music experience.
 
-### Highlights
+**Features:**
 
-* Local music library scanning
-* Background playback support
-* Lock screen media controls
+* Local Music Library Scanning
+* Background Audio Playback
+* Lock Screen Media Controls
 * Playlists & Favorites
-* Search functionality
-* Recently played & Most played statistics
+* Search Functionality
+* Recently Played & Most Played Statistics
+* Queue Management
 * Riverpod State Management
-* Isar Local Database
+* Isar Database
 * Clean Architecture
 
 🔗 Repository: https://github.com/5UBH4M/echobeat
 
 ---
 
-## 🎬 Media Mate
+### 🎬 Media Mate
 
-An all-in-one Android media utility toolbox developed using Flutter.
+An all-in-one Android media utility application built with Flutter.
 
-### Features
+**Features:**
 
 * Photo Collage Creator
-* YouTube Video Downloader
-* YouTube Audio Downloader
-* HD Stream Merging
 * WhatsApp Status Saver
+* YouTube Video & Audio Downloader
+* HD Stream Merging
 * Image to Video Converter
 * Background Music Support
-* Responsive Material Design UI
+* Efficient File Management
+* Modern Responsive UI
 
 🔗 Repository: https://github.com/5UBH4M/media-mate
 
 ---
 
-## 💰 Expense Tracker
+### 💰 Expense Tracker App
 
-A cross-platform Flutter application for managing personal expenses.
+A cross-platform mobile application developed using Flutter and Dart to help users manage daily expenses.
 
-### Features
+**Features:**
 
-* CRUD Operations
-* Local Database Storage
-* Offline Support
+* Create, Read, Update & Delete Expenses
+* Local Database Integration
+* Offline Data Persistence
 * Responsive UI
-* Performance Optimization
+* Smooth Performance Across Devices
 
 ---
 
-## 📊 GitHub Statistics
+## 🌱 Currently Learning & Exploring
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5UBH4M\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=5UBH4M\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5UBH4M\&layout=compact\&theme=tokyonight)
+* Scalable Flutter Architecture
+* Backend Development with Node.js & Express.js
+* Docker and Containerization
+* Full-Stack Development using the MERN Stack
+* CI/CD and Modern Development Workflows
 
 ---
 
-## 🎯 2026 Goals
+## 📊 GitHub Stats
 
-* Build production-grade Flutter applications
-* Publish apps on Play Store
-* Contribute to Open Source projects
-* Master Flutter Architecture patterns
-* Learn Backend Development
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5UBH4M\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5UBH4M\&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: [rajpootsubham25@gmail.com](mailto:rajpootsubham25@gmail.com)
-
-🐙 GitHub: https://github.com/5UBH4M
-
-💼 LinkedIn: [www.linkedin.com/in/subham-singh-755449307](http://www.linkedin.com/in/subham-singh-755449307)
+* 📧 Email: [rajpootsubham25@gmail.com](mailto:rajpootsubham25@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/subham-singh-755449307
+* 🐙 GitHub: https://github.com/5UBH4M
 
 ---
 
-> Building apps that are fast, clean, and enjoyable to use.
+### 💡 Quote
+
+> "Code is not just about making things work. It's about making them simple, maintainable, and useful."
