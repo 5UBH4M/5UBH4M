@@ -159,11 +159,9 @@ A Flutter-based expense management application for tracking and managing daily e
 
 📧 Email: **[rajpootsubham25@gmail.com](mailto:rajpootsubham25@gmail.com)**
 
-💼 LinkedIn: **https://www.linkedin.com/in/subham-singh-755449307**
+💼 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/subham-singh-755449307)**
 
-🐙 GitHub: **https://github.com/5UBH4M**
-
----
+🐙 GitHub: **[5UBH4M](https://github.com/5UBH4M)**
 
 ### 💡 Quote
 
