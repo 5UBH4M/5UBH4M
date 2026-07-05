@@ -136,6 +136,27 @@ A Flutter-based expense management application for tracking and managing daily e
 
 ---
 
+### 🎮 Ultimate Tic-Tac-Toe
+
+A strategic Flutter implementation of Ultimate Tic-Tac-Toe featuring intelligent AI opponents, smooth animations, and a polished Material 3 interface.
+
+**Highlights**
+
+* AI Opponent with Multiple Difficulty Levels
+* Interactive 9×9 Ultimate Tic-Tac-Toe Board
+* Beautiful Material 3 UI
+* Smooth Animations & Game Feedback
+* Undo & Restart Functionality
+* Responsive Design for Phones & Tablets
+* Clean Architecture
+* Optimized Game Logic
+
+🔗 Repository: https://github.com/5UBH4M/ultimate-tic-tac-toe
+
+---
+
+---
+
 ## 🌱 Currently Learning & Exploring
 
 * Advanced Flutter Architecture
